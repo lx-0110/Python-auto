@@ -8,4 +8,7 @@ driver.get('https://kaifa.17mine.cn/#/login')
 driver.maximize_window()
 sleep(10)
 
+driver.find_element_by_xpath()
+
+sleep(20)
 driver.quit()
